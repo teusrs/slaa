@@ -65,3 +65,12 @@
 .escola-titulo{
     padding: 24px 0;
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.estudante-imagem{
+    width: 120px;
+}
+
